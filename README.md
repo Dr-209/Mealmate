@@ -9,6 +9,7 @@ MealMate is a Next.js web application where users can share food experiences, di
 ⚡ Optimized Performance - Uses Next.js best practices.
 🎭 Error Handling - Custom error pages, 404 Page Not Found, and global error boundaries.
 
+![alt text](image.png)
 
 🛠️ Tech Stack
 Frontend: Next.js, React , Tailwind CSS
